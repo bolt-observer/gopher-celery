@@ -8,7 +8,6 @@ require (
 	github.com/gomodule/redigo v1.8.9
 	github.com/google/go-cmp v0.5.9
 	github.com/google/uuid v1.3.0
-	github.com/marselester/gopher-celery v0.0.4
 	golang.org/x/sync v0.0.0-20220923202941-7f9b1623fab7
 )
 
