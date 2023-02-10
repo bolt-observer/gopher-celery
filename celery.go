@@ -14,8 +14,8 @@ import (
 	"github.com/google/uuid"
 	"golang.org/x/sync/errgroup"
 
-	"github.com/marselester/gopher-celery/protocol"
-	"github.com/marselester/gopher-celery/redis"
+	"github.com/bolt-observer/gopher-celery/protocol"
+	"github.com/bolt-observer/gopher-celery/redis"
 )
 
 // Time to wait before rechecking whether the queues are registered.

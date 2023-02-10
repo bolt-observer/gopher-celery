@@ -9,7 +9,7 @@ import (
 
 	"github.com/go-redis/redis/v9"
 
-	"github.com/marselester/gopher-celery/internal/broker"
+	"github.com/bolt-observer/gopher-celery/internal/broker"
 )
 
 // DefaultReceiveTimeout defines how many seconds the broker's Receive command
