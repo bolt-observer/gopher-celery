@@ -8,11 +8,11 @@ import (
 	"os/signal"
 	"time"
 
+	celery "github.com/bolt-observer/gopher-celery"
+	celeryredis "github.com/bolt-observer/gopher-celery/redis"
 	"github.com/go-kit/log"
 	"github.com/go-kit/log/level"
 	"github.com/gomodule/redigo/redis"
-	celery "github.com/marselester/gopher-celery"
-	celeryredis "github.com/marselester/gopher-celery/redis"
 )
 
 func main() {

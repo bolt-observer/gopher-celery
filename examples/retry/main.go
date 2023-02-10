@@ -9,9 +9,9 @@ import (
 	"os/signal"
 	"time"
 
+	celery "github.com/bolt-observer/gopher-celery"
 	"github.com/go-kit/log"
 	"github.com/marselester/backoff"
-	celery "github.com/marselester/gopher-celery"
 )
 
 func main() {

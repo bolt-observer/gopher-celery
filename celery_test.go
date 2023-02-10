@@ -12,7 +12,7 @@ import (
 	"github.com/go-kit/log"
 	"golang.org/x/sync/errgroup"
 
-	"github.com/marselester/gopher-celery/protocol"
+	"github.com/bolt-observer/gopher-celery/protocol"
 )
 
 func TestExecuteTaskPanic(t *testing.T) {

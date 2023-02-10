@@ -1,7 +1,7 @@
 # Gopher Celery 🥬
 
-[![Documentation](https://godoc.org/github.com/marselester/gopher-celery?status.svg)](https://pkg.go.dev/github.com/marselester/gopher-celery)
-[![Go Report Card](https://goreportcard.com/badge/github.com/marselester/gopher-celery)](https://goreportcard.com/report/github.com/marselester/gopher-celery)
+[![Documentation](https://godoc.org/github.com/bolt-observer/gopher-celery?status.svg)](https://pkg.go.dev/github.com/bolt-observer/gopher-celery)
+[![Go Report Card](https://goreportcard.com/badge/github.com/bolt-observer/gopher-celery)](https://goreportcard.com/report/github.com/bolt-observer/gopher-celery)
 
 The objective of this project is to provide
 the very basic mechanism to efficiently produce and consume Celery tasks on Go side.
